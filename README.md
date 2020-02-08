@@ -11,3 +11,5 @@
      A save button
 
 * Each timeblock is color coded to indicate whether it is in a past, present, or future hour.
+
+* Clicking a timeblock's "Save" button stores the input text in local storage, allowing the text to persist when      the application is refreshed.
